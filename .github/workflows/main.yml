@@ -1,6 +1,5 @@
 name: Auto grant Adobe
 
-
 on:
   push:
     branches-ignore:
